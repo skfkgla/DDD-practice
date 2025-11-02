@@ -52,6 +52,8 @@
 2. 예약 정보와 좌석 정보를 바탕으로 E-Ticket을 생성하고 저장한다.
 3. 승객에게 정해진 수단에 맞게 발권 완료 알림을 발송한다.
 
+### Use case Diagram
+
 ![image.png](/docs/images/usecase-diagram.png)
 
 ---
